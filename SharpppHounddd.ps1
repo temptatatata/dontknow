@@ -1,3 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#gdfgdgdfgdfg
+
+
 function Invoke-BloodHound
 {
     <#
@@ -416,3 +434,27 @@ function Invoke-BloodHound
 	$Assembly.GetType("Costura.AssemblyLoader", $false).GetMethod("Attach", $BindingFlags).Invoke($Null, @())
 	$Assembly.GetType("Sharphound.Program").GetMethod("InvokeSharpHound").Invoke($Null, @(,$passed))
 }
+
+
+
+
+
+
+
+
+#dfggdfgdgdgdfgdfgdfgdfg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
